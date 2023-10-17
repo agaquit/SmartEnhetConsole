@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnhet", "SmartEnhet\SmartEnhet.csproj", "{D799F4CC-E769-4CA7-B554-68FB1827BFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{CBDEB08E-DC8C-4BA2-9AD6-564638A4F6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D799F4CC-E769-4CA7-B554-68FB1827BFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D799F4CC-E769-4CA7-B554-68FB1827BFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D799F4CC-E769-4CA7-B554-68FB1827BFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D799F4CC-E769-4CA7-B554-68FB1827BFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDEB08E-DC8C-4BA2-9AD6-564638A4F6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDEB08E-DC8C-4BA2-9AD6-564638A4F6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDEB08E-DC8C-4BA2-9AD6-564638A4F6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDEB08E-DC8C-4BA2-9AD6-564638A4F6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05231929-5D9C-445F-85CB-51C61E4094B4}
+	EndGlobalSection
+EndGlobal
